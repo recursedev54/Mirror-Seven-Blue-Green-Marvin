@@ -4,3 +4,4 @@ open vs code
 git clone (into) https://github.com/zrebarchak/Mirror-Seven-Blue-Green-Marvin/edit/main/README.md
 build or debug the code
 enjoy!
+And Introducing Luu, you're new os faker for placing embedded images that can still function as mock gui's
